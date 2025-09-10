@@ -1,0 +1,13 @@
+{
+  "name": "amiccon_a7137_protocol_analyzer",
+  "apiVersion": "1.0.0",
+  "author": "Marco Catellani",
+  "version": "1.0.0",
+  "description": "",
+  "extensions": {
+    "amiccon_a7137_protocol_analyzer": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Amiccon_A7137_ProtocolAnalyzerHLA"
+    }
+  }
+}
